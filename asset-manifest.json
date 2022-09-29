@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fitness-for-life/static/css/main.0b2a2535.css",
+    "main.js": "/fitness-for-life/static/js/main.09609ab7.js",
+    "static/js/787.66c1d308.chunk.js": "/fitness-for-life/static/js/787.66c1d308.chunk.js",
+    "static/media/profile.jpg": "/fitness-for-life/static/media/profile.26ffb8257797813b83ee.jpg",
+    "index.html": "/fitness-for-life/index.html",
+    "main.0b2a2535.css.map": "/fitness-for-life/static/css/main.0b2a2535.css.map",
+    "main.09609ab7.js.map": "/fitness-for-life/static/js/main.09609ab7.js.map",
+    "787.66c1d308.chunk.js.map": "/fitness-for-life/static/js/787.66c1d308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2a2535.css",
+    "static/js/main.09609ab7.js"
+  ]
+}
