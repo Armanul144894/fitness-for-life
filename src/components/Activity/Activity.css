@@ -1,0 +1,7 @@
+.add-btn {
+  background-color: #95a0a7;
+}
+
+.add-btn:focus {
+  background-color: #2a414f;
+}
